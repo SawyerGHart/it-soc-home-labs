@@ -11,7 +11,6 @@ as a SOC (Security Operations Center) analyst.
 | osTicket Help Desk | Planned |
 | Microsoft 365 (M365) Admin Practice | Planned |
 | Packet Tracer Network | Planned |
-| PC Build and Reimage | Planned |
 
 ## About me
 Sophomore pursuing an A.S. (Associate of Science) degree
