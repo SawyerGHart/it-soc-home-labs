@@ -6,7 +6,7 @@ as a SOC (Security Operations Center) analyst.
 ## Labs
 | Lab | Status |
 |-----|--------|
-| Active Directory (AD) Home Lab | In progress |
+| [Active Directory (AD) Home Lab](active-directory-lab) | Complete |
 | Wazuh SOC Mini-Lab | Planned |
 | osTicket Help Desk | Planned |
 | Microsoft 365 (M365) Admin Practice | Planned |
